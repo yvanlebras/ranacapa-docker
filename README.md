@@ -1,2 +1,1 @@
-# ranacapa-docker
- Docker image for Ranacapa Shiny app eDNA for Galaxy for ecology
+First try to add Ranacapa Shiny app as a Galaxy interactivetool
